@@ -1,4 +1,4 @@
-### Hello there 👋    <img align="right" alt="code-pic" height="150" style="border-radius:250px;" src= "https://www.giantfreakinrobot.com/wp-content/uploads/2022/10/hellothere.gif">
+### Hello there <img align="center" alt="code-pic" height="50" style="border-radius:100px;" src= "https://cdn4.iconfinder.com/data/icons/famous-characters-add-on-vol-1-flat/48/Famous_Character_-_Add_On_1-46-512.png">   
 
 <!--
 **lucasvlramos/lucasvlramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
                     
 </div>
 
- <img align="left" alt="code-pic" height="30" style="border-radius:50px;" src= "https://openseauserdata.com/files/abb0a10423e0692942ccb1ceb3553f4f.gif">  How to find me:
+   How to find me:
 <div>
   <a href = "mailto:lucasvlramos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%230077B5?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/lucasvenânciolr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
