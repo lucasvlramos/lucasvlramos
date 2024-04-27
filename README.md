@@ -1,4 +1,14 @@
-### Hi there 👋 <img align="right" alt="code-pic" height="350" style="border-radius:700px;" src="https://64.media.tumblr.com/61d4fea89f86eb4cb5a7e616d9cd4832/tumblr_owi25v6uAo1r4gsiio1_1280.gif">
+### Hi there 👋 
+body{
+    background-image: url('https://64.media.tumblr.com/61d4fea89f86eb4cb5a7e616d9cd4832/tumblr_owi25v6uAo1r4gsiio1_1280.gif');
+    background-size: cover;
+    
+    
+    
+    height: 100vh;
+    padding:0;
+    margin:0;
+}
 
 <!--
 **lucasvlramos/lucasvlramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
